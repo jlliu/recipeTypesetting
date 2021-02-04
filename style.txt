@@ -1,0 +1,16 @@
+body: {
+	margin: 100px auto
+	max-width: 50%
+	family: sans-serif
+	size: 2em
+}
+
+
+em: {
+	color: "red"
+}
+
+image: {
+	width:100
+	border: 10px solid "red"
+}
